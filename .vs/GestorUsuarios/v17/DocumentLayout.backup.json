@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\models\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\models\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\equipos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\equipos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\equipos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\equipos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\equipos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\equipos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\equipos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\equipos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\tecnicos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\tecnicos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\tecnicos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\tecnicos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\tecnicos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\tecnicos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\tecnicos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\tecnicos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\equipos\\create.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\equipos\\create.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\equipos\\edit.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\equipos\\edit.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\tecnicos\\create.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\tecnicos\\create.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\usuarios\\delete.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\usuarios\\delete.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\controllers\\tecnicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\controllers\\tecnicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\controllers\\equiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\controllers\\equiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|c:\\users\\andyp\\onedrive\\escritorio\\folder sql proyects\\gestorusuarios\\gestorusuarios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02778973-5D8D-4556-9FC7-061286A38BDF}|GestorUsuarios\\GestorUsuarios.csproj|solutionrelative:gestorusuarios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Usuarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Usuarios\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:46:39.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Equipos\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Equipos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Equipos\\Index.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Equipos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:44:09.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:41:49.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Usuarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Usuarios\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:42:06.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:41:35.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tecnico.cs",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Models\\Tecnico.cs",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Models\\Tecnico.cs",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Models\\Tecnico.cs",
+              "RelativeToolTip": "GestorUsuarios\\Models\\Tecnico.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:37:19.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Models\\Equipo.cs",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Models\\Equipo.cs",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Models\\Equipo.cs",
+              "RelativeToolTip": "GestorUsuarios\\Models\\Equipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:37:11.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Models\\Usuario.cs",
+              "RelativeToolTip": "GestorUsuarios\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:37:02.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Equipos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Equipos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Equipos\\Edit.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Equipos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:46:16.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Equipos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Equipos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Equipos\\Delete.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Equipos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:45:00.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Equipos\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Equipos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Equipos\\Create.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Equipos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:46:11.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Tecnicos\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Tecnicos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Tecnicos\\Create.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Tecnicos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:45:47.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Equipos\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Equipos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Equipos\\Create.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Equipos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:44:40.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Equipos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Equipos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Equipos\\Edit.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Equipos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:44:17.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Tecnicos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Tecnicos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Tecnicos\\Delete.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Tecnicos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:43:57.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Tecnicos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Tecnicos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Tecnicos\\Edit.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Tecnicos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:43:22.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Tecnicos\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Tecnicos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Tecnicos\\Create.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Tecnicos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:43:33.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Tecnicos\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Tecnicos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Tecnicos\\Index.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Tecnicos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:43:10.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Usuarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Usuarios\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:42:21.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TecnicosController.cs",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Controllers\\TecnicosController.cs",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Controllers\\TecnicosController.cs",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Controllers\\TecnicosController.cs",
+              "RelativeToolTip": "GestorUsuarios\\Controllers\\TecnicosController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:36:28.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "GestorUsuarios\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:35:53.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EquiposController.cs",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Controllers\\EquiposController.cs",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Controllers\\EquiposController.cs",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Controllers\\EquiposController.cs",
+              "RelativeToolTip": "GestorUsuarios\\Controllers\\EquiposController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:36:08.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestorUsuarios\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Andyp\\OneDrive\\Escritorio\\folder SQL Proyects\\GestorUsuarios\\GestorUsuarios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestorUsuarios\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T00:37:48.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

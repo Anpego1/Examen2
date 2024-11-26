@@ -1,0 +1,30 @@
+@model List<GestorUsuarios.Models.Usuario>
+
+<h2>Usuarios</h2>
+<p>
+    @Html.ActionLink("Crear Nuevo Usuario", "Create")
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Correo</th>
+            <th>Teléfono</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var usuario in Model)
+        {
+            <tr>
+                <td>@usuario.Nombre</td>
+                <td>@usuario.Correo</td>
+                <td>@usuario.Telefono</td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = usuario.Id }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id = usuario.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

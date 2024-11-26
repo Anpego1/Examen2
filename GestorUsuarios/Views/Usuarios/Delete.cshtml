@@ -1,0 +1,24 @@
+﻿@model GestorUsuarios.Models.Usuario
+
+@{
+    ViewBag.Title = "Eliminar Usuario";
+}
+
+<h2>Eliminar Usuario</h2>
+
+<p>¿Estás seguro de que deseas eliminar este usuario?</p>
+
+<dl class="dl-horizontal">
+    <dt>Nombre:</dt>
+    <dd>@Model.Nombre</dd>
+    <dt>Correo Electrónico:</dt>
+    <dd>@Model.Correo</dd>
+    <dt>Teléfono:</dt>
+    <dd>@Model.Telefono</dd>
+</dl>
+
+@using (Html.BeginForm("DeleteConfirmed", "Usuarios", new { id = Model.Id }, FormMethod.Post))
+{
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Cancelar</a>
+}
